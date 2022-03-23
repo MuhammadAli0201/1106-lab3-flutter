@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab3-flutter"
+  },
+  "targets": {
+    "lab3-flutter": {
+      "hosting": {
+        "q2": [
+          "q2-adf"
+        ]
+      }
+    }
+  }
+}
